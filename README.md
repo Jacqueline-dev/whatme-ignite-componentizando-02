@@ -1,4 +1,4 @@
-# Sobre o projeto: To Do List
+# Sobre o projeto: Whatme
 
 Essa é aplicação onde o  objetivo é refatorar uma página para listagem de filmes de acordo com gênero. 
 
